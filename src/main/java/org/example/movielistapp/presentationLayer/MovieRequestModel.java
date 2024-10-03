@@ -14,7 +14,6 @@ public class MovieRequestModel {
 
     private String title;
 
-
     private Integer releaseYear;
 
     private String posterURL;
